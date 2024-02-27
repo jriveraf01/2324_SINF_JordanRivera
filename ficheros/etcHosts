@@ -1,0 +1,8 @@
+#Definición de localhost
+127.0.0.1         localhost
+192.168.2.4		  juntaExtremadura
+#Correspondencia para una página web
+209.85.229.104    www.google.es
+#Dominios de Internet bloqueados
+255.255.255.0     www.paginabloqueada1.com    www.paginabloqueada2.com
+255.255.255.0     www.paginabloqueada3.com

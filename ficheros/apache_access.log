@@ -1,0 +1,4 @@
+127.0.0.1--[25/Jul/2002:20:21:51-0300]"GET /site/index.php?variable=32&clave=opcion1 HTTP/1.1" 200 1609
+127.0.0.1--[25/Jul/2002:20:21:51-0300]"POST /site/version7/GETO.php HTTP/1.1" 200 1012
+127.0.0.1--[25/Jul/2002:20:21:51-0300]"GET /site/version7/presu2.php?nombre=12&clave=ventas HTTP/1.1" 200 642
+127.0.0.1--[25/Jul/2002:20:21:51-0300]"GET /site/index.php?variable=32&clave=opcion1 HTTP/1.1" 200 1609

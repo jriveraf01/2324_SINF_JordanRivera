@@ -1,0 +1,8 @@
+1;Pedro Perez;78476637N;calle nueva 5;10/01/2022;950€;Hijo del director
+2;Raul Lopez;87458697M;calle antigua 6;12/01/2022;600€;Buen cliente
+3;Maria Garcia;76489920;barriada blanca 4;5/01/2022;750€;grita fuertisimo
+4;Pepe Garcia;7654662M;barriada constitución 3;09/01/2022;345€; Cliente correcto
+5;Elena Nito;67345566M;calle peru 4;15/01/2022;1380€;Cobra el dia dos de cada mes
+6;Juan Lopez;5643211I;calle noruega 3;09/01/2022;1200€;Se rille mucho
+7;Antonia Garcia;65321112A;calle holanda 5;17/01/2022;920€;Deuda al dia
+8;Jose Lopez;98322123K;calle lopez 5;06/01/2022;743€;hemo sio engañao
