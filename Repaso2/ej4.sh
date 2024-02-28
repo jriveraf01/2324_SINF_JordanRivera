@@ -24,4 +24,4 @@ for linea in $FICHERO; do
     lineaParcial=`echo $linea | cut -d';' -f1,2,3,4`
     echo "$lineaParcial;$precio"
   fi
-done
+done 
