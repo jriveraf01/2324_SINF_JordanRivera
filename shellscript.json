@@ -1,0 +1,111 @@
+{
+	"Sha Bang": {
+		"scope": "shellscript",
+		"prefix": "madsha",
+		"body": [
+			"#!/bin/bash"      
+		],
+		"description": "Imprimir Sha Bang"
+	},
+ 
+ 
+	"IfNumeros": {
+		"scope": "shellscript",
+		"prefix": "madifNum",
+		"body": [
+			"if [ $1 -gt $2 ]; then",
+			"\t$3",
+			"fi"   
+		],
+		"description": "If cuando la condicion son numeros"
+	},
+ 
+ 
+	"IfCadenas": {
+		"scope": "shellscript",
+		"prefix": "madifCad",
+		"body": [
+			"#=,!=,\\>,-z(NULO),-n(NO NULO)",
+			"if [ $1 \\> $2 ]; then",
+			"\t$3",
+			"fi",          
+		],
+		"description": "If cuando la condicion son cadenas"
+	},
+ 
+ 
+	"Case": {
+		"scope": "shellscript",
+		"prefix": "madcase",
+		"body": [
+			"case $1 in",
+			"\t'$2')",
+			"\t$3",
+			"\t;;",
+			"\t*);;",
+			"esac"         
+		],
+		"description": "Creación de un case"
+	},
+ 
+ 
+	"Recorrer array": {
+		"scope": "shellscript",
+		"prefix": "madRecorrerArray",
+		"body": [
+			"for $1 in “${array[@]}”; do",
+			"\t$2",
+			"done"                     
+		],
+		"description": "Recorre un array"
+	},
+   
+	"For normal": {
+		"scope": "shellscript",
+		"prefix": "madforNormal",
+		"body": [
+			"for (($1=$2; $1<=$3; $1++)); do",
+			"$4",
+			"done"
+		],
+		"description": "For normal en Bash"
+	}
+ 
+ 
+	"Forin": {
+		"scope": "shellscript",
+		"prefix": "madforin",
+		"body": [
+			"IFS=$'\\n'",
+			"FICHERO=`cat fichero`",
+			"for $1 in $FICHERO; do",
+			"$2",
+			"done"
+		],
+		"description": "For in en Bash"
+	}
+ 
+ 
+	"Numero elementos array": {
+		"scope": "shellscript",
+		"prefix": "madnumElemArray",
+		"body": [
+			"echo ${#archivos[@]}"
+		],
+		"description": "Imprime el número de elementos del array"
+	}
+ 
+ 
+	"Recorrer un array": {
+		"scope": "shellscript",
+		"prefix": "madRecorrerArray",
+		"body": [
+			"for $1 in “${array[@]}”; do",
+			"$2",
+			"done"
+		],
+		"description": "Recorre los elementos de un array"
+	}
+ 
+
+}
