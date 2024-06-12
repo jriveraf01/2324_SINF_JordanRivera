@@ -1,0 +1,3 @@
+chmod u=rw, g=r prueba.txt
+chmod u=rw, g=r prueba2.txt
+chmod u=rw, g=r prueba3.txt

@@ -1,0 +1,22 @@
+D001;Juan Pérez;2732;Cáceres
+D002;Ana López;3014;Mérida
+D003;Carlos Martínez;2845;Badajoz
+D004;Lucía Fernández;3310;Montijo
+D005;Miguel Sánchez;2575;Trujillo
+D006;Marta Rodríguez;3630;Zafra
+D007;José García;2925;Almendralejo
+D008;Sara Díaz;3140;Almendralejo
+D009;David Ruiz;2775;Villanueva de la Serena
+D010;Laura Gómez;2990;Don Benito
+D011;Pedro Hernández;2615;Zafra
+D012;Elena Jiménez;3280;Miajadas
+D013;Manuel Torres;3085;Zafra
+D014;Carmen Morales;2870;Montijo
+D015;Antonio Ortiz;3235;Llerena
+D016;Patricia Ramírez;3370;Zafra
+D017;Sergio Navarro;2665;Llerena
+D010;Laura Gómez;2990;Don Benito
+D018;Isabel Gil;3545;Azuaga
+D019;Rafael Castro;3040;Coria
+D003;Carlos Martínez;2845;Badajoz
+D020;Beatriz Méndez;2755;Fuente de Cantos
