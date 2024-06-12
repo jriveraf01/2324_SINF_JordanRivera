@@ -1,0 +1,11 @@
+#Nombre máquina:fecha compra:grados:rpm actuales
+Maquina 1:2015:85:5400
+Maquina 2:2014:91:5250
+Maquina 3:2014:45:1323
+Maquina 4:2005:75:2007
+Maquina 5:2004:58:934
+Maquina 6:2020:26:795
+Maquina 7:2016:26:532
+Maquina 8:2014:31:728
+Maquina 9:2008:17:1851
+Maquina 10:2001:98:1008
